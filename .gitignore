@@ -3,7 +3,7 @@ notes.txt
 *.pyc
 #config.py
 social.json
-venv3
+venv3/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
